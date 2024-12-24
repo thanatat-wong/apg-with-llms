@@ -6,11 +6,11 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 ## Table of Contents
 There are six sections:
 1. [Abstract](https://github.com/thanatat-wong/apg-with-llms/blob/main/README.md#abstract)
-2. [](Automatic Persona Generation Development Process)
-3. [](Automatic Persona Generation Experiments)
-4. [](File Requirements)
-5. [](Persona Generation Prompts for ChatGPT-4)
-6. [](Persona Generation Output)
+2. [Automatic Persona Generation Development Process](https://github.com/thanatat-wong/apg-with-llms/blob/main/README.md#file-requirements)
+3. [Automatic Persona Generation Experiments](https://github.com/thanatat-wong/apg-with-llms/blob/main/README.md#file-requirements)
+4. [File Requirements](https://github.com/thanatat-wong/apg-with-llms/blob/main/README.md#file-requirements)
+5. [Persona Generation Prompts for ChatGPT-4](https://github.com/thanatat-wong/apg-with-llms/blob/main/README.md#file-requirements)
+6. [Persona Generation Output](https://github.com/thanatat-wong/apg-with-llms/blob/main/README.md#file-requirements)
 
 ## Abstract
 This study provides a preliminary exploration on automating user persona generation via Large Language Models (LLMs) with a case study on educational digital services. Data were collected from 40 undergraduate students at one of Thailand’s science and technology higher education institutes through questionnaires and semi-structured interviews, with participants grouped via K-means clustering for diverse representation. The study relied on LLMs to analyze the data to generate empathy maps and jobs-to-be-done to assist in guiding the persona generation. Validation ensued by checking whether persona contents were aligned with leading features determined by SHAP (SHapley Additive exPlanations). The results demonstrated that each persona was reliably tied to the feature importances as identified by SHAP—effectively, highlighting how each generated persona successfully captured the unique traits of the cluster it represented. Such promising results have paved way for further optimization for better precision and accuracy, with the opportunity to generalize the approach undertaken in this study into an LLM-based framework for automating persona generation.
