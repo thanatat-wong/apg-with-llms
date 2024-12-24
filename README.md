@@ -1,5 +1,6 @@
 # Automating Persona Generation: Leveraging Large Language Models in Educational Digital Services
-Authors:  Thanatat Wongabut / Unhawa Ninrutsirikun / Chonlameth Arpnikanondt
+**Authors:**  Thanatat Wongabut / Unhawa Ninrutsirikun / Chonlameth Arpnikanondt
+
 School of Information Technology, King Mongkut's University of Technology Thonburi
 
 ## Abstract:
