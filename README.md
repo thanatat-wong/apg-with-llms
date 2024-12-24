@@ -5,7 +5,7 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 ## Table of Contents
 There are six sections:
-1. [](Abstract)
+1. [https://github.com/thanatat-wong/apg-with-llms/blob/main/README.md#abstract](Abstract)
 2. [](Automatic Persona Generation Development Process)
 3. [](Automatic Persona Generation Experiments)
 4. [](File Requirements)
