@@ -102,4 +102,5 @@ From the given file is the image caption. Next, your job will be coming up with 
 Please create and answer in .txt file.
 ```
 ## Persona Generation Output
+According to the results from the ChatGPT-4, the following image is the final persona output by rearranging the layout automatically in Python:
 ![Alt text](https://github.com/thanatat-wong/apg-with-llms/blob/main/generated-persona.png?raw=true)
