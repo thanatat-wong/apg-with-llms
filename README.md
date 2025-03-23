@@ -75,7 +75,7 @@ Note that for step 4, if there is no any pain point or constraint, no need to ad
 Please answer in .txt file.
 ```
 
-**Step 6: ** Next, I will provide the culture profile based on Geert Hofstede Cultural Dimensions below:
+**Step 5:** Next, I will provide the culture profile based on Geert Hofstede Cultural Dimensions below:
 ```
 - Score for each dimension:
 1) Power Distance: Index score of <Your Country Index Score>.
@@ -88,7 +88,7 @@ Please answer in .txt file.
 If you understand, all above clearly say "Got it!!!!!!".
 ```
 
-**Step 5:** Give the command to ChatGPT-4 to understand the image captions file in the next step.
+**Step 6:** Give the command to ChatGPT-4 to understand the image captions file in the next step.
 ```
 Next, I will provide the spreadsheet file about the image caption. Your job will be coming up with keeping the following file for creating the persona in the next step.
 
