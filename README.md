@@ -74,6 +74,20 @@ Note that for step 4, if there is no any pain point or constraint, no need to ad
 
 Please answer in .txt file.
 ```
+
+**Step 6: ** Next, I will provide the culture profile based on Geert Hofstede Cultural Dimensions below:
+```
+- Score for each dimension:
+1) Power Distance: Index score of <Your Country Index Score>.
+2) Individualism: Index score of <Your Country Index Score>.
+3) Masculinity: Index score of <Your Country Index Score>.
+4) Uncertainty Avoidance: Index score of <Your Country Index Score>.
+5) Long Term Orientation: Index score of <Your Country Index Score>.
+6) Indulgence: Index score of <Your Country Index Score>.
+
+If you understand, all above clearly say "Got it!!!!!!".
+```
+
 **Step 5:** Give the command to ChatGPT-4 to understand the image captions file in the next step.
 ```
 Next, I will provide the spreadsheet file about the image caption. Your job will be coming up with keeping the following file for creating the persona in the next step.
@@ -81,7 +95,7 @@ Next, I will provide the spreadsheet file about the image caption. Your job will
 Just keep the following in mind for now, there is more task to follow. Say only 'Continue'.
 ```
 
-**Step 6:** Attach <image_captioning.csv> file, and let ChatGPT-4 choose appropriate image from the attached file. Then, generate the persona by composing Identity, General Profile, Goals, Scenarios, Knowledge and Experience, Relationships, Psychological Profile and Needs, Attitude and Motivation, Expectations, and Special Needs.
+**Step 7:** Attach <image_captioning.csv> file, and let ChatGPT-4 choose appropriate image from the attached file. Then, generate the persona by composing Identity, General Profile, Goals, Scenarios, Knowledge and Experience, Relationships, Psychological Profile and Needs, Attitude and Motivation, Expectations, and Special Needs.
 ```
 From the given file is the image caption. Next, your job will be coming up with utilizing the empathy map, jobs-to-be-done statements and culture profile to create the persona based on the following persona components below:
 - Identity
